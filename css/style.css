@@ -472,7 +472,6 @@ input[type="radio"].visually-hidden {
   height: 40px;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-  border-radius: 50%;
   background-color: #f4f4f4;
   text-decoration: none;
   margin-top: 10px;
