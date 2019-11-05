@@ -548,6 +548,11 @@ input[type="radio"].visually-hidden {
   text-align: start;
 }
 
+/*.swiper-slide-4 { 
+      height: 50% !important;
+      line-height: 50% !important;
+    }*/
+
 /** {
   border:solid 1px red;
 }*/
