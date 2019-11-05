@@ -2,14 +2,13 @@
         direction: 'vertical',
         slidesPerView: 1,
         // spaceBetween: 0,
-         // autoplay: {
-         // delay: 5000,       
-         // disableOnInteraction: true,
-         // },
+         autoplay: {
+         delay: 5000,       
+         disableOnInteraction: true,
+         },
          hashNavigation: {
         watchState: true,
         },
-        spaceBetween: 30,
         mousewheel: true,
         pagination: {
           el: '.swiper-pagination',
