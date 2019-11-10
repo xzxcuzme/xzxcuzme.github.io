@@ -1,4 +1,5 @@
     var swiper = new Swiper('.swiper-container', {
+        autoHeight: true,
         direction: 'vertical',
         slidesPerView: 1,
         // spaceBetween: 0,
